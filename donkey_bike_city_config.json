@@ -1,0 +1,332 @@
+[
+    {
+      "city": "Antwerp",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=803",
+        "additional_hubs": null
+      },
+      "headers": {
+        "filter_type\naccount_id": "account\n803"
+      }
+    },
+    {
+      "city": "Mechelen",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=803",
+        "additional_hubs": null
+      },
+      "headers": {
+        "filter_type\naccount_id": "account\n803"
+      }
+    },
+    {
+      "city": "Waasland",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=803",
+        "additional_hubs": null
+      },
+      "headers": {
+        "filter_type\naccount_id": "account\n803"
+      }
+    },
+    {
+      "city": "De-Panne",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/561/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Ghent",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/223/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Koksijde",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/8/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Veurne",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/475/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Aarhus",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/205/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Copenhagen",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/1/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Randers",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/308/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Roskilde",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/19/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Kouvola",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/208/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Turku",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/345/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Hanover",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/592/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Kiel-Region",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=866",
+        "additional_hubs": null
+      },
+      "headers": {
+        "filter_type\naccount_id": "account\n866"
+      }
+    },
+    {
+      "city": "Ochtrup",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/350/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Schlei-Region",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/nearby?filter_type=account&account_id=866",
+        "additional_hubs": null
+      },
+      "headers": {
+        "filter_type\naccount_id": "account\n866"
+      }
+    },
+    {
+      "city": "Straubing",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/336/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Amsterdam",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/5/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Dordrecht",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/355/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Katwijk",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/645/hubs/",
+        "additional_hubs": "https://stables.donkey.bike/api/public/cities/643/hubs/"
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Leiden",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/645/hubs/",
+        "additional_hubs": "https://stables.donkey.bike/api/public/cities/643/hubs/"
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Oegstgeest",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/645/hubs/",
+        "additional_hubs": "https://stables.donkey.bike/api/public/cities/643/hubs/"
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Rotterdam",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/21/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "The-hague",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/306/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Barcelona",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/1/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Varberg",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/315/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Geneva",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/217/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Kreuzlingen",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/304/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Lausanne-EPFL",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/53/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Neuchatel",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/142/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Thun",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/242/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    },
+    {
+      "city": "Yverdon-les-Bains",
+      "endpoints": {
+        "hubs": "https://stables.donkey.bike/api/public/cities/240/hubs/",
+        "additional_hubs": null
+      },
+      "headers": {
+        "accept": "application/com.donkeyrepublic.v8"
+      }
+    }
+  ]
